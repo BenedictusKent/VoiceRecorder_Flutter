@@ -1,0 +1,2 @@
+python_Levenshtein==0.20.8
+SpeechRecognition==3.8.1
